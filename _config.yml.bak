@@ -33,6 +33,9 @@ github_username:  jhnels1
 theme: minima
 plugins:
   - jekyll-feed
+  
+header_pages:
+  - CV/cv.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
