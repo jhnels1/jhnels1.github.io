@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to my web page!
+Welcome to my web page! Here you will find some information about me, as well as some posts where I discuss interesting topics from physics and data science.
