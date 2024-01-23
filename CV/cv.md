@@ -30,6 +30,12 @@ University of Minnesota- Twin Cities
 
 2016 - 2020 *University of Minnesota- Twin Cities*, Department of Physics
  - Graduate Teaching Assistant
+ - Ran labs and held tutoring hours for introductory and advanced physics students. Explained complex topics to beginners and developed rubrics for evaluating lab reports and exams.
+ - Courses Taught:
+     - PHYS 1222 -- Intro Physics Life Science II
+     - PHYS 1301W -- Physics for Science and Engineering I
+     - PHYS 4001 -- Analytical Mechanics
+     - PHYS 4041 -- Computational Methods
  
 ### Talks
 
