@@ -23,6 +23,7 @@ permalink: /cv/
  - Generated large volumes of simulation data in Geant4 to study the environmental radiation background for SuperCDMS SNOLAB.
  - Developed pipelines in Python to clean, process and extract features from simulations and model how neutrons penetrate the experimental shielding.
  - Contributed to the design of an auxiliary shield capable of reducing the environmental neutron background for SuperCDMS by up to 90%.
+ - Simulated x-ray calibration sources for low background dark matter detectors. Identified and modeled background contributions from processes such as inner bremsstrahlung, which are not simulated natively in GEANT4.
  - Co-led the analysis of a search for light models of dark matter which involved efforts from two scientific collaborations (SuperCDMS and SPICE/HeRALD) and demonstrated world-leading sensitivity.
  - Built models using principal component analysis and digital signal processing to classify background events in dark matter search data with high accuracy.
 
