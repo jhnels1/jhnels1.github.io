@@ -21,7 +21,7 @@
 title: Jack H. Nelson
 email: jhnelson132@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Physicist passionate about solving challenging problems and telling stories with data.
+  Data scientist, passionate about solving challenging problems and telling stories with data.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: jack-nelson-6aaa43140
