@@ -4,9 +4,9 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-## Jack H. Nelson
+# Jack H. Nelson
 
-### Education
+## Education
 
 2016 - 2024, *University of Minnesota- Twin Cities*
  - Ph.D. Physics
@@ -15,7 +15,7 @@ permalink: /cv/
 2012 - 2016, *Lewis & Clark College*
  - B.A. Mathematics and Physics, Magna Cum Laude
  
-### Experience
+## Experience
 
 2020 - 2024 *University of Minnesota- Twin Cities*, Department of Physics
  - Graduate Research Assistant under Professor Priscilla Cushman
