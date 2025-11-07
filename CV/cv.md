@@ -46,6 +46,9 @@ July 12, 2021, [APS DPF Meeting 2021](https://indico.cern.ch/event/1034469/timet
 
 
 ### Publications
+ - T. K. Bui _et al._, "First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel
+Athermal Phonon Detector from the TESSERACT Collaboration", [Phys. Rev. Lett. 135, 161002](https://doi.org/10.1103/hsrl-crvf)
+ - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Light dark matter constraints from SuperCDMS HVeV detectors operated underground with an anticoincidence event selection", [Phys. Rev. D 111, 012006](https://doi.org/10.1103/PhysRevD.111.012006)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "First measurement of the nuclear-recoil ionization yield in silicon at 100 eV", [Phys. Rev. Lett. 131, 091801 (2023)](https://doi.org/10.1103/PhysRevLett.131.091801)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS", [Phys. Rev. D 107, 112013 (2023)](https://doi.org/10.1103/PhysRevD.107.112013)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Investigating the sources of low-energy events in a SuperCDMS-HVeV detector", [Phys. Rev. D 105, 112006 (2022)](https://doi.org/10.1103/PhysRevD.105.112006)
