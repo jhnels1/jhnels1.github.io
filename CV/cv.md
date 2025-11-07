@@ -21,7 +21,7 @@ permalink: /cv/
 ### Research Associate - Biostatistics
 2024 - Present *Mayo Clinic- Rochester*, Morrison Vascular Innovation Lab
  - Built a custom pipeline to process and analyze ventricular pressure-volume data to evaluate time-dependent cardiac contractility.
- - Applied Bayesian statistical techniques in the context of large animal studies, using Markov Chain Monte Carlo methods to incorporate knowledge from published literature and increase statistical power while reducing the total number of subjects involved.
+ - Applied Bayesian statistical techniques in the context of large animal studies, using Markov Chain Monte Carlo methods to incorporate knowledge from published literature and increase statistical power while minimizing the total number of subjects involved.
  - Developed software to skim large, retrospective survey data sets containing ICD-10 coded variables, and subsequently analyze the skimmed data. These tools were used to identify and evaluate outcomes associated with patient transfer in the National Inpatient Sample.
  - Assisted in the design of benchtop models for testing vascular monitering devices. Programmed hardware for running the models which was used to produce benchmark data sets.
 
