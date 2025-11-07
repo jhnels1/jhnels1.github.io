@@ -18,21 +18,24 @@ permalink: /cv/
  
 ## Experience
 
-### Research Associate: Biostatistics and Bioinformatics
+### Research Associate - Biostatistics
+2024 - Present *Mayo Clinic- Rochester*, Morrison Vascular Innovation Lab
+ - Built a custom pipeline to process and analyze ventricular pressure-volume data to evaluate time-dependent cardiac contractility.
+ - Applied Bayesian statistical techniques in the context of large animal studies, using Markov Chain Monte Carlo methods to incorporate knowledge from published literature and increase statistical power while reducing the total number of subjects involved.
+ - Developed software to skim large, retrospective survey data sets containing ICD-10 coded variables, and subsequently analyze the skimmed data. These tools were used to identify and evaluate outcomes associated with patient transfer in the National Inpatient Sample.
+ - Assisted in the design of benchtop models for testing vascular monitering devices. Programmed hardware for running the models which was used to produce benchmark data sets.
 
 ### Graduate Research Assistant
 2020 - 2024 *University of Minnesota- Twin Cities*, Department of Physics
  - Member of the Super Cryogenic Dark Matter Search [(SuperCDMS)](https://supercdms.slac.stanford.edu/) collaboration.
- - Generated large volumes of simulation data in Geant4 to study the environmental radiation background for SuperCDMS SNOLAB.
- - Developed pipelines in Python to clean, process and extract features from simulations and model how neutrons penetrate the SuperCDMS shield.
- - Contributed to the design of an auxiliary shield capable of reducing the environmental neutron background for SuperCDMS by up to 90%.
- - Simulated x-ray calibration sources for low background dark matter detectors. Identified and modeled background contributions from processes such as inner bremsstrahlung, which are not simulated natively in Geant4.
- - Co-led the analysis of a search for light models of dark matter which involved efforts from two scientific collaborations (SuperCDMS and SPICE/HeRALD) and demonstrated world-leading sensitivity.
- - Built models using principal component analysis and digital signal processing to classify background events in dark matter search data with high accuracy.
+ - Developed pipelines to generate large volumes of background and calibration simulation data in Geant4 and subsequently in Python to clean, process and extract features in Python.
+ - Estimated neutron background contributions to the SuperCDMS SNOLAB experiment from simulation data, and evaluated auxiliary shield designs capable of reducing environmental backgrounds by up to 90%.
+ - Co-led the analysis of a search for light models of dark matter which involved efforts from two scientific collaborations (SuperCDMS and SPICE/HeRALD), which demonstrated world-leading sensitivity.
+ - Built models using principal component analysis and digital signal processing techinques to identify low frequency or non-stationary noise in dark matter search data.
 
 ### Graduate Teaching Assistant
 2016 - 2020 *University of Minnesota- Twin Cities*, Department of Physics
- - Ran labs and held tutoring hours for introductory and advanced physics students. Explained complex topics to beginners and developed rubrics for evaluating lab reports and exams.
+ - Ran labs, held tutoring sessions and graded exams for both introductory and advanced physics students. Explained complex topics to beginners and developed rubrics for evaluating lab reports and exams.
  - Courses Taught:
      - PHYS 1222 -- Intro Physics for Life Sciences II
      - PHYS 1301W -- Intro Physics for Science and Engineering I
