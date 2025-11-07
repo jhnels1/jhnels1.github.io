@@ -11,14 +11,15 @@ permalink: /cv/
 2016 - 2024, *University of Minnesota- Twin Cities*
  - Ph.D. Physics
  - Thesis: Lowering Backgrounds and Thresholds in the Search for Light Dark Matter with SuperCDMS
+ - Advisor: Priscilla Cushman
  
 2012 - 2016, *Lewis & Clark College*
  - B.A. Mathematics and Physics, Magna Cum Laude
  
 ## Experience
 
+### Graduate Research Assistant
 2020 - 2024 *University of Minnesota- Twin Cities*, Department of Physics
- - Graduate Research Assistant under Professor Priscilla Cushman
  - Member of the Super Cryogenic Dark Matter Search [(SuperCDMS)](https://supercdms.slac.stanford.edu/) collaboration.
  - Generated large volumes of simulation data in Geant4 to study the environmental radiation background for SuperCDMS SNOLAB.
  - Developed pipelines in Python to clean, process and extract features from simulations and model how neutrons penetrate the SuperCDMS shield.
@@ -27,8 +28,8 @@ permalink: /cv/
  - Co-led the analysis of a search for light models of dark matter which involved efforts from two scientific collaborations (SuperCDMS and SPICE/HeRALD) and demonstrated world-leading sensitivity.
  - Built models using principal component analysis and digital signal processing to classify background events in dark matter search data with high accuracy.
 
+### Graduate Teaching Assistant
 2016 - 2020 *University of Minnesota- Twin Cities*, Department of Physics
- - Graduate Teaching Assistant
  - Ran labs and held tutoring hours for introductory and advanced physics students. Explained complex topics to beginners and developed rubrics for evaluating lab reports and exams.
  - Courses Taught:
      - PHYS 1222 -- Intro Physics for Life Sciences II
