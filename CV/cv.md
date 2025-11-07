@@ -46,9 +46,15 @@ July 12, 2021, [APS DPF Meeting 2021](https://indico.cern.ch/event/1034469/timet
 
 
 ### Publications
+ - G. Jodlowski, C. Price, P. Cullen, M. Dvir, **J. Nelson**, K. M. Knoll, J. J. Morrison, "Benchtop Model for In Vitro Verification and Validation of Blood Velocity Monitoring Devices", [JVS-Vascular Insights (2025)](https://doi.org/10.1016/j.jvsvi.2025.100276)
+ - M. Dvir, G. Jodlowski, **J. Nelson**, P. F. Walker, J. J. Morrison, "Time is of the Essence: The Impact of Transfer on Outcomes in Acute Mesenteric Ischemia", [J Am Coll Surg. 2025](https://doi.org/10.1097/xcs.0000000000001647)
+ - M. Dvir, G. Jodlowski, A. Piccinini, **J. Nelson**, P. F. Walker, T. E. Rasmussen, J. J. Morrison, "Hospital transfer and associated outcomes in acute limb ischemia", [J Vasc Surg. 2025 Nov;82(5)](https://doi.org/10.1016/j.jvs.2025.07.019)
+ - M. C. Rousseau, G. Jodlowski, C. Price, M. Dvir, **J. Nelson**, P. F. Walker, J. J. Morrison, "Practical application of pressure-volume loop analysis in a swine model of medical cardiac arrest", [Crit. Care Innov. 2025; 8(3)](https://doi.org/10.32114/CCI.2025.8.3.1.11)
+ - M. Dvir, G. Jodlowski, D. P. Stonko, R. Treffalls, **J. Nelson**, P. F. Walker, J. J. Morrison, "A proposed clinical guide to delivering Lower Extremity Extracorporeal Distal Revascularization (LEEDR) as a bridge to definitive care in acute limb ischemia", [Perfusion. 2025;0(0)](https://doi.org/10.1177/02676591251363374)
+ - S. N, Wilken, D. V. S. Rodrigues, C. Price, J. Jacobs, **J. Nelson**, P. F. Walker, J. J. Morrison, "Effects of verapamil on intestinal injury in a rat model of acute mesenteric ischemia", [Surg Pract Sci. 21, 100286 (2025)](https://doi.org/10.1016/j.sipas.2025.100286)
  - T. K. Bui _et al._, "First Limits on Light Dark Matter Interactions in a Low Threshold Two-Channel
-Athermal Phonon Detector from the TESSERACT Collaboration", [Phys. Rev. Lett. 135, 161002](https://doi.org/10.1103/hsrl-crvf)
- - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Light dark matter constraints from SuperCDMS HVeV detectors operated underground with an anticoincidence event selection", [Phys. Rev. D 111, 012006](https://doi.org/10.1103/PhysRevD.111.012006)
+Athermal Phonon Detector from the TESSERACT Collaboration", [Phys. Rev. Lett. 135, 161002 (2025)](https://doi.org/10.1103/hsrl-crvf)
+ - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Light dark matter constraints from SuperCDMS HVeV detectors operated underground with an anticoincidence event selection", [Phys. Rev. D 111, 012006 (2025)](https://doi.org/10.1103/PhysRevD.111.012006)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "First measurement of the nuclear-recoil ionization yield in silicon at 100 eV", [Phys. Rev. Lett. 131, 091801 (2023)](https://doi.org/10.1103/PhysRevLett.131.091801)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "A Search for Low-mass Dark Matter via Bremsstrahlung Radiation and the Migdal Effect in SuperCDMS", [Phys. Rev. D 107, 112013 (2023)](https://doi.org/10.1103/PhysRevD.107.112013)
  - M. F. Albakry _et al._ (SuperCDMS Collaboration), "Investigating the sources of low-energy events in a SuperCDMS-HVeV detector", [Phys. Rev. D 105, 112006 (2022)](https://doi.org/10.1103/PhysRevD.105.112006)
