@@ -18,6 +18,8 @@ permalink: /cv/
  
 ## Experience
 
+### Research Associate: Biostatistics and Bioinformatics
+
 ### Graduate Research Assistant
 2020 - 2024 *University of Minnesota- Twin Cities*, Department of Physics
  - Member of the Super Cryogenic Dark Matter Search [(SuperCDMS)](https://supercdms.slac.stanford.edu/) collaboration.
@@ -37,7 +39,7 @@ permalink: /cv/
      - PHYS 4001 -- Analytical Mechanics
      - PHYS 4041 -- Computational Methods
  
-### Talks
+## Talks
 
 **Contributed Talk**: *Sub-GeV Dark Matter Results from an Above-Ground Detector with 2.3 eV Energy Resolution*
 April 15, 2023, [APS April Meeting 2023](https://meetings.aps.org/Meeting/APR23/Session/B12.6), Minneapolis, MN
@@ -46,7 +48,7 @@ April 15, 2023, [APS April Meeting 2023](https://meetings.aps.org/Meeting/APR23/
 July 12, 2021, [APS DPF Meeting 2021](https://indico.cern.ch/event/1034469/timetable/?print=1&view=nicecompact), Florida State University, Virtual
 
 
-### Publications
+## Publications
  - G. Jodlowski, C. Price, P. Cullen, M. Dvir, **J. Nelson**, K. M. Knoll, J. J. Morrison, "Benchtop Model for In Vitro Verification and Validation of Blood Velocity Monitoring Devices", [JVS-Vascular Insights (2025)](https://doi.org/10.1016/j.jvsvi.2025.100276)
  - M. Dvir, G. Jodlowski, **J. Nelson**, P. F. Walker, J. J. Morrison, "Time is of the Essence: The Impact of Transfer on Outcomes in Acute Mesenteric Ischemia", [J Am Coll Surg. 2025](https://doi.org/10.1097/xcs.0000000000001647)
  - M. Dvir, G. Jodlowski, A. Piccinini, **J. Nelson**, P. F. Walker, T. E. Rasmussen, J. J. Morrison, "Hospital transfer and associated outcomes in acute limb ischemia", [J Vasc Surg. 2025 Nov;82(5)](https://doi.org/10.1016/j.jvs.2025.07.019)
